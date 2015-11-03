@@ -1,5 +1,5 @@
-# data_collection
-Control Flu Data Collection - 2015/2016
+# Control Flu Data Collection
+Control Flu Team - 2015/2016
 
 ## Specific instructions
 
@@ -16,3 +16,7 @@ Use the following naming convention for all forms: “[schoolname]_[internlastname
 
 #### File format
 Keep file as a ".csv" file.  Do not save as a ".xls" or any other kind of format.
+
+#### Security
+You are dealing with protected health information.  Keep data safe and encrypted.  Be vigilant and careful.
+
