@@ -4,12 +4,13 @@ grade,The grade of the student.
 race,"The race of the student, as reported on the form.  Write it exactly as they wrote it.  If blank, leave blank."
 last_name,"The last name of the student, as reported on the form.  Include hyphenations if applicable (ie, ""Franklin-Garcia"")."
 first_name,"The first name of the student, as reported on the form."
+dob,The student's date of birth.
 student_id,"The student ID number, as found on the roster.  Be especially careful to ensure this field's accuracy."
 consent_form_return,"""y"" or ""n"", referring to whether the student returned a consent form at all. This should always be yes."
 consent_form_yn,"""y"" or ""n"", referring to whether the student consented to be immunized. "
-dose_number,"1 or 2, referring to the dose number this refers to. "
-vaccine,"""y"" or ""n"", referring to whether the student actually received the dose in question or not."
-vaccine_date,"The date that the vaccine was administered, in format YYYY-mm-dd"
+dose_number,"1 or 2, referring to the number of doses this student is supposed to receive."
+vaccine,"0, 1 or 2, referring to the number of vaccines the student received."
+vaccine_date,"The date that the vaccine(s) was/were administered, in format YYYY-mm-dd.  If two doses, this should be two dates, ie 2015-10-01 2015-10-25"
 vaccine_type,"""laiv"" for everyone"
 vfc_priv,"""vfc"" or ""priv"" - this student's insurance status, as reported on the form"
 comment,Put any special comments here. Free-text field.

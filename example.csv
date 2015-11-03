@@ -1,0 +1,4 @@
+data_entry_person,school_name,grade,race,last_name,first_name,dob,student_id,consent_form_return,consent_form_yn,dose_number,vaccine,vaccine_date,vaccine_type,vfc_priv,comment
+Joe Brew,Eastside,9,White,Johnson,John,1/1/2000,12345,y,n,1,0,,,,
+Joe Brew,Eastside,10,Hispanic,Smith,Alice,1/2/2001,55555,y,y,1,1,10/15/2015,laiv,priv,"the birth date on the form is smudged, so this might not be accurate"
+Joe Brew,Eastside,9,Black,Franlin,Bob,1/5/2000,99999,y,y,1,0,,,,the student was absent on the day of immunization
