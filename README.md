@@ -16,7 +16,9 @@ Each row in the spreadsheet you are creating refers to A STUDENT WHO RETURNED A 
 5. When finished, make sure to name and save your spreadsheet appropriately (see below) and email to Andrew (alampert@ufl.edu).
 
 #### Naming conventions
-Use the following naming convention for all forms: “[schoolname]_[internlastname].csv”.  For example “littlewood_brew.csv”.  
+Use the following naming convention for all forms: ?[schoolname]_[internlastname].csv?.  For example ?littlewood_brew.csv?.  
+
+If you are dealing with an ambiguous name (ie, there are multiple schools of the same name), clarify.  Ie: "alachua_es_brew.csv".
 
 #### File format
 Keep file as a ".csv" file.  Do not save as a ".xls" or any other kind of format.
